@@ -1,7 +1,8 @@
 {
   "name": "embertask",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-copy": "~0.4.1",
@@ -24,6 +25,7 @@
     "grunt-open": "~0.2.0",
     "grunt-svgmin": "~0.1.0",
     "grunt-concurrent": "~0.1.0",
+    "grunt-cli": "~0.1.7",
     "matchdep": "~0.1.1",
     "grunt-ember-templates": "~0.4.4"
   },
