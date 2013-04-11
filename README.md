@@ -24,8 +24,8 @@ Installation
 ------------
 
 ```bash
-npm install -g
-bower install
+npm install
+(./node_modules/.bin/)bower install
 ```
 
-Start the server with `grunt server` and prepare for production with `grunt`
+Start the server with `(./node_modules/.bin/)grunt server` and prepare for production with `(./node_modules/.bin/)grunt`
